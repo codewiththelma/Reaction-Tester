@@ -1,0 +1,14 @@
+#shape{
+    width: 150px;
+    height: 150px;
+    background-color: turquoise;
+    display: none;
+    position: relative;
+}
+.bold{
+    font-weight: bold;
+    
+}
+body{
+    background-color: rgb(252, 252, 228);
+}
